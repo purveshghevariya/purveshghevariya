@@ -21,48 +21,30 @@
 
 <h3 align="center">🛠️ Tech Stack</h3>
 
-### 🚀 Flutter Development
+### <img src="https://skillicons.dev/icons?i=flutter" width="25"/> Flutter Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,xcode,figma" />
+<b>Languages & Tools:</b> Flutter, Dart, Android Studio, Xcode, Figma
 </p>
 
-### 🧠 Python & AI
+### <img src="https://skillicons.dev/icons?i=python" width="25"/> Python & AI
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/icons/numpylogo.svg" width="40" title="NumPy"/>
-  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="40" title="Pandas"/>
-  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="40" title="Scikit-Learn"/>
-  <img src="https://matplotlib.org/stable/_static/images/logo2.svg" width="40" title="Matplotlib"/>
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="70" title="Seaborn"/>
+<b>Languages & Libraries:</b> Python, NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn
 </p>
 
-### 🔧 Backend & API
+### <img src="https://skillicons.dev/icons?i=nodejs" width="25"/> Backend & API
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,postman,javascript" />
+<b>Frameworks & Tools:</b> Node.js, FastAPI, JavaScript, Postman
 </p>
 
-### 🗄️ Database
+### <img src="https://skillicons.dev/icons?i=firebase" width="25"/> Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,sqlite" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Snowflake_Logo.svg/2560px-Snowflake_Logo.svg.png" width="40" title="Snowflake" />
-  <img src="https://skillicons.dev/icons?i=supabase" />
+<b>Databases:</b> Firebase, MongoDB, MySQL, SQLite, Snowflake, Supabase
 </p>
 
-### 🧰 Tools & Platform
+### <img src="https://skillicons.dev/icons?i=github" width="25"/> Tools & Platform
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows,aws" />
+<b>Tools:</b> Git, GitHub, VS Code, Linux, Windows, AWS
 </p>
-
----
-
-<h3 align="center">📈 GitHub Stats</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=purveshghevariya&show_icons=true&locale=en&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=purveshghevariya&theme=radical" width="48%"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purveshghevariya&layout=compact&theme=radical" width="50%"/>
-</div>
 
 ---
 
