@@ -1,14 +1,14 @@
 <!-- Profile Header -->
 <img width="100%" title="Purvesh Ghevariya" alt="Purvesh Ghevariya" src="https://capsule-render.vercel.app/api?type=waving&height=188&color=gradient&customColorList=4,9&text=Purvesh%20Ghevariya&textBg=false&animation=twinkling&reversal=false"/>
 
-<h3 align="center">🚀 A passionate Flutter, Backend & AI Developer from India</h3>
+<h3 align="center">🚀 A passionate Flutter, Backend & AI Developer from Canada(Winnipeg)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=purveshghevariya&label=Profile%20views&color=0e75b6&style=flat" alt="purveshghevariya" /> </p>
 
 - 🔭 I’m currently working on **AI Projects, Backend APIs and Flutter Apps**
 - 🌱 I’m currently learning **Machine Learning and Cloud Architecture**
 - 💬 Ask me about **Flutter, Firebase, Python, FastAPI, AI & Backend APIs**
-- 📫 Reach me at **purveshghevariya@gmail.com**
+- 📫 Reach me at **purveshghevariya77@gmail.com**
 
 <h3 align="center">📲 Connect With Me</h3>
 <p align="center">
