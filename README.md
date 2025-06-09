@@ -47,7 +47,7 @@ fun_fact: "I turn coffee into code and ideas into reality! ☕→💻"
 <div align="center">
 
 ### 📱 Mobile Development
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,xcode,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,xcode,figma,github&theme=dark" />
 
 **Tools & Frameworks:** Flutter • Dart • Android Studio • Xcode • VS Code • Figma • Adobe XD
 
@@ -85,22 +85,7 @@ fun_fact: "I turn coffee into code and ideas into reality! ☕→💻"
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=purveshghevariya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=purveshghevariya&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=purveshghevariya&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=purveshghevariya&theme=tokyo-night&border_radius=10&area=true" alt="Contribution Graph"/>
-</div>
-
----
 
 ## 🏆 GitHub Trophies
 
