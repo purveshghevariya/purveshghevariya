@@ -47,9 +47,9 @@ fun_fact: "I turn coffee into code and ideas into reality! ☕→💻"
 <div align="center">
 
 ### 📱 Mobile Development
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,xcode,figma,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,figma&theme=dark" />
 
-**Tools & Frameworks:** Flutter • Dart • Android Studio • Xcode • VS Code • Figma • Adobe XD
+**Tools & Frameworks:** Flutter • Dart • Android Studio • Figma
 
 ### 🤖 AI & Machine Learning  
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" />
