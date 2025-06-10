@@ -85,16 +85,6 @@ fun_fact: "I turn coffee into code and ideas into reality! ☕→💻"
 
 ---
 
-
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=purveshghevariya&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
-</div>
-
----
-
 ## 🌐 Connect & Collaborate
 
 <div align="center">
