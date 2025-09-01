@@ -161,19 +161,6 @@ fun_fact: "I turn complex problems into elegant solutions! 🚀"
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=purveshghevariya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=purveshghevariya&layout=compact&langs_count=8&theme=algolia"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=purveshghevariya&theme=algolia" alt="GitHub Streak" />
-</div>
-
----
-
 ## 🎯 Professional Experience Highlights
 
 ### 💼 Software Engineer @ JKSOL INFOTECH (Aug 2022 - Apr 2024)
