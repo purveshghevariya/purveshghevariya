@@ -29,7 +29,7 @@ specialization: ["Python Backend Engineering", "Flutter Development", "AI/ML Dep
 current_focus: "AI-Powered Systems & Scalable Backend Infrastructure"
 education: "Post-Degree Diploma in AI @ University of Winnipeg"
 ask_me_about: ["FastAPI", "Flutter", "Machine Learning", "System Design", "Cloud Integration"]
-philosophy: "Transforming complex problems into elegant, scalable solutions! 🚀"
+philosophy: "Transforming complex problems into elegant, scalable solutions"
 ```
 
 ### 🎯 Professional Highlights
@@ -159,12 +159,7 @@ philosophy: "Transforming complex problems into elegant, scalable solutions! �
 
 **Version Control:** Git • GitHub  
 **DevOps:** Docker • CI/CD Pipelines  
-**Development:** VS Code • Android Studio • Jupyter Notebook
-
-### 💻 Additional Technologies
-<img src="https://skillicons.dev/icons?i=react,javascript&theme=dark" />
-
-**Frontend:** React.js • JavaScript  
+**Development:** VS Code • Android Studio • Jupyter Notebook  
 **Collaboration:** Slack • Microsoft Teams • Agile Methodology
 
 </div>
@@ -173,54 +168,40 @@ philosophy: "Transforming complex problems into elegant, scalable solutions! �
 
 ## 💼 Professional Experience
 
-### 🚀 Senior Software Developer (Flutter & Python)
+### Senior Software Developer (Flutter & Python Developer)
 **JKSOL INFOTECH** | Surat, India | Aug 2022 - Apr 2024
 
-#### Backend Engineering Excellence
-- 🐍 Engineered **FastAPI-based backend systems**, improving API response speed by **25%** through optimization techniques
-- 🤖 Integrated **machine learning models** via Python APIs, transforming predictive insights into real-time business intelligence
-- 📊 Optimized **MySQL & MongoDB** schemas and queries, reducing data load times by **30%**
-- 🏗️ Developed **modular backend architecture** supporting multi-tenant applications, cutting delivery timelines by **20%**
+Engineered and deployed FastAPI-based backend systems, improving API response speed by 25% and ensuring scalable, secure data flow across multiple client services. Integrated machine learning models via Python APIs, transforming predictive insights into real-time business intelligence for client-facing applications. Optimized database schemas and queries (MySQL, MongoDB) to reduce data load times by 30%, improving application stability under high traffic. Developed modular backend architecture supporting multi-tenant client apps, cutting delivery timelines by 20% and boosting code reusability.
 
-#### Mobile Development Leadership
-- 📱 Built and maintained **10+ Flutter applications** with Firebase and REST API integrations
-- 🎨 Applied **clean architecture** principles with GetX, Provider, and Bloc patterns for maintainable, scalable apps
-- ⚡ Implemented **offline-first architecture** with SQLite and real-time cloud synchronization
+Built and maintained 10+ Flutter applications with Firebase and REST API integrations, ensuring smooth performance, intuitive UI design, and improved user satisfaction. Applied clean architecture and reusable components, resulting in maintainable, scalable app structures aligned with business logic.
 
-#### Team Leadership & Mentorship
-- 👨‍🏫 Mentored **20+ junior developers** and interns in professional workflows
-- 📚 Introduced Git, GitHub, and agile practices, reducing version conflicts by **35%**
-- 🤝 Improved team delivery efficiency through code reviews and documentation standards
+Mentored 20+ junior developers and interns, introducing professional workflows using Git, GitHub, Slack, and project management tools, reducing version conflicts by 35% and improving delivery efficiency.
 
 ---
 
 ## 🎓 Education & Continuous Learning
 
-**🎓 Post-Degree Diploma in Artificial Intelligence** | Jan 2025 - Dec 2025  
-**The University of Winnipeg (PACE)** | Winnipeg, MB, Canada  
-*Focus: Machine Learning, Deep Learning, Predictive Modeling, Cloud-based AI Workflows*
+**Post-Degree Diploma in Artificial Intelligence** | Jan 2025 - Dec 2025  
+**The University of Winnipeg – Professional, Applied and Continuing Education (PACE)** | Winnipeg, MB  
+Gaining expertise in machine learning, predictive modeling, and AI systems using TensorFlow and Scikit-learn. Conducted EDA, data preprocessing, and model evaluation on real-world datasets for business analytics. Developing cloud-based AI workflows and data visualization pipelines supporting data-driven decision-making.
 
-**🎓 Bachelor of Computer Applications** | Jul 2021 - Mar 2024  
+**Bachelor of Computer Applications** | Jul 2021 - Mar 2024  
 **Veer Narmad South Gujarat University** | Surat, India
 
 ---
 
 ## 🏆 Leadership Experience
 
-### 📅 Event Coordinator - Impetus 2023
+### Event Coordinator - Impetus 2023
 **Veer Narmad South Gujarat University** | Surat, India
 
-- 🎯 Led design of **event management dashboard** for 2,000+ participants and 100+ games
-- 🤝 Orchestrated communication among multiple university departments
-- 📊 Implemented **data-driven reporting system**, reducing processing time through automation
+Led the end-to-end design of an event management dashboard for 2,000 participants and 100 games, streamlining faculty and participant coordination. Orchestrated communication among multiple university departments to ensure smooth scheduling, real-time data tracking, and reporting efficiency. Implemented a data-driven reporting system, reducing data processing time and enhancing participant tracking accuracy through automated updates.
 
 ---
 
 ## 🌐 Connect & Collaborate
 
 <div align="center">
-  
-### Let's Build Scalable Solutions Together! 🚀
 
 <a href="https://www.linkedin.com/in/purvesh-ghevariya/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -228,8 +209,8 @@ philosophy: "Transforming complex problems into elegant, scalable solutions! �
 <a href="mailto:purveshghevariya77@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://www.instagram.com/purvesh.ghevariya/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<a href="https://github.com/purveshghevariya" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.youtube.com/channel/UC02c0ksNIBrU3i3Hn3jVqmA" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
@@ -238,12 +219,6 @@ philosophy: "Transforming complex problems into elegant, scalable solutions! �
 **📧 Email:** purveshghevariya77@gmail.com  
 **📱 Phone:** 431-754-2905  
 **📍 Location:** Winnipeg, Manitoba, Canada
-
-### 📺 Tech Content Creator
-
-<a href="https://www.youtube.com/channel/UC02c0ksNIBrU3i3Hn3jVqmA" target="_blank">
-  <img src="https://img.shields.io/youtube/channel/subscribers/UC02c0ksNIBrU3i3Hn3jVqmA?style=for-the-badge&logo=youtube&logoColor=white&color=FF0000&labelColor=1a1a1a&label=Subscribe%20for%20Dev%20Tutorials"/>
-</a>
 
 </div>
 
@@ -289,28 +264,18 @@ class PurveshGhevariya:
         }
     
     def philosophy(self):
-        return "Engineering scalable solutions with clean code and AI innovation! 🚀"
+        return "Engineering scalable solutions with clean code and AI innovation"
 
 developer = PurveshGhevariya()
-print("Always learning, always building! 💻✨")
+print("Transforming ideas into production-ready solutions")
 ```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=purveshghevariya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a1a&title_color=2196F3&icon_color=2196F3&text_color=ffffff" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=purveshghevariya&theme=tokyonight&hide_border=true&background=1a1a1a&stroke=2196F3&ring=2196F3&fire=2196F3&currStreakLabel=2196F3" alt="GitHub Streak" />
-</div>
 
 ---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer"/>
   
-  **"Engineering the future with Python, Flutter, and AI!" ✨**
+  **"Building the future with Python, Flutter, and AI"**
   
-  ⭐ **If my work inspires you, let's collaborate and build something amazing!** ⭐
+  ⭐ **Open to collaborations and innovative projects** ⭐
 </div>
